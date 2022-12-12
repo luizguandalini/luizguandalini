@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**luizguandalini/luizguandalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 I currently work as a QA
+- 📚 Studying ReactJS, ReactNative, Node
+- 📧 contact me on email: luizguandalini@outlook.com
 
-Here are some ideas to get you started:
+### Olá 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Atualmente trabalho como QA
+- 📚 Estudando ReactJS, ReactNative, Node;
+- 📧 Contate-me no email: luizguandalini@outlook.com
+
+
+
